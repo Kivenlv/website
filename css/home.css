@@ -1,0 +1,130 @@
+.home-banner{
+	width: 100%;
+	height: auto;
+	background: #00a0f0;
+	text-align: center;
+	position: relative;
+}
+.home-banner-cont{
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.home-banner-imgBig{
+	height: 350px;
+	vertical-align: bottom;
+}
+.home-banner-Prompt{
+	width: 100%;
+	height: 100px;
+	position: absolute;
+	bottom: 0;
+	background: rgba(255,255,255,0.3);
+	background-color: #fff;
+	filter: alpha(opacity=30);
+	-moz-opacity: 0.3;
+	opacity: 0.3;
+}
+.home-banner-bottom{
+	display: inline-block;
+	vertical-align: bottom;
+	width: 800px;
+	zoom: 1;
+}
+.home-banner-left{
+	float: left;
+	margin-top: 10px;
+}
+.home-banner-left img{
+	width: 80px;
+	height: 80px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 38px;
+}
+.home-banner-leftF{
+	display: inline-block;
+	vertical-align: middle;
+	color: #3c3c3c;
+}
+.home-banner-leftF h2{
+	font-size: 24px;
+	font-weight: normal;
+	text-align: left;
+}
+.home-banner-leftF p{
+	font-size: 18px;
+	line-height: 30px;
+}
+.home-banner-right{
+	line-height: 100px;
+	float: right;
+	width: 360px;
+}
+.home-banner-icon{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	background: url(../images/icon.png) no-repeat;
+	float: left;
+	margin-top: 35px;
+}
+.home-banner-wx{
+	float: right;
+	position: relative;
+}
+.home-wx-icon{
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background: url(../images/wx-icon.png) no-repeat;
+	vertical-align: middle;
+}
+.home-wx-erweima{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	top: -150px;
+	left: -55px;
+	zoom: 1;
+}
+.home-wx-erweima img{
+	width: 150px;
+}
+.home-boxs{
+	width: 33.33%;
+	float: left;
+	height: 250px;
+	position: relative;	
+	overflow: hidden;
+}
+.home-box-wrapper{
+	position: absolute;
+	height: 200%;
+	width: 100%;
+	text-align: center;
+	top: 0;
+}
+.home-box-top p{
+	font-size: 15px;
+	color: #64c8fa;
+}
+.home-box-topTitle{
+	font-size: 18px !important;
+	color: #00a0f0 !important;
+	margin-top: 20px;
+}
+.home-box-top{
+	margin-top: 70px;
+}
+.home-box-top img{
+	width: 76px;
+	height: 60px;
+}
+.home-box-bottom{
+	margin-top: 70px;
+}
+.home-box-bottom img{
+	width: 50%;
+}
